@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+src/configger/__init__.py
+src/configger/module.py
+src/configger.egg-info/PKG-INFO
+src/configger.egg-info/SOURCES.txt
+src/configger.egg-info/dependency_links.txt
+src/configger.egg-info/requires.txt
+src/configger.egg-info/top_level.txt
